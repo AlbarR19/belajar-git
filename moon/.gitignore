@@ -2,3 +2,4 @@ logs/
 bin/
 .log
 .DS_Store
+.gitignore
